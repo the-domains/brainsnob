@@ -1,7 +1,7 @@
 name: BrainSnob
 favicon: null
-layout_spectrum: 0.31703345919959247
-typography_spectrum: 0.2115026896353811
+layout_spectrum: 0.895
+typography_spectrum: 0.65644
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#3c0000'
+    - '#473300'
+    - '#6e5b4d'
+    - '#d4ad82'
+    - '#775100'
   brandStrength: 0.8658252677414566
-  lightness: 0.08200353407301009
+  lightness: 0.125
   saturation: 0.6407966655679047
-  rhythmicContrast: 0.23055278649553657
+  rhythmicContrast: 0.25
 purpose: []
