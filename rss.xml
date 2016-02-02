@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[BrainSnob]]></title>
         <description><![CDATA[BrainSnob]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brainsnob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 18:47:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 18:48:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brainsnob/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Brain Snob (@TheBrainSnob): "Bishop Schneider: "The Pope is surely not the measure of tradition, but on the contrary." https://t.co/SHNkAeZrZG"</p>]]></description>
             <link>https://twitter.com/TheBrainSnob</link>
             <guid isPermaLink="false">a33baedd-b1ae-4d53-9470-b758cbce008a</guid>
             <pubDate>Tue, 02 Feb 2016 18:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://forallsaints.files.wordpress.com/2011/02/presentation-of-christ-luttrell-psalter.jpg">]]></description>
+            <link>https://thegrid.ai/brainsnob/5209cd0f-e5d2-4a35-85fe-2727e3401c60/index.html</link>
+            <guid isPermaLink="false">5209cd0f-e5d2-4a35-85fe-2727e3401c60</guid>
+            <pubDate>Tue, 02 Feb 2016 18:48:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
